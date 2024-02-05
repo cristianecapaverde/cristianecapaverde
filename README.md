@@ -20,7 +20,7 @@ Olá, eu sou a Cristiane! </h1>
 
 
 # Vamos nos conectar
-+ 💼 Dê uma olhada no meu [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/cristianecapaverde/) 
++ 💼 Dê uma olhada no meu 	[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cristianecapaverde/)
 
 ---
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet&style=flat&abbreviated=true)
